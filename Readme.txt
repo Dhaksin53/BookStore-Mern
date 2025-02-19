@@ -33,7 +33,7 @@ Version Control: Git & GitHub
 1️⃣ Clone the Repository
 
 
-git clone https://github.com/yourusername/BookStore-Mern.git
+git clone https://github.com/Dhaksin53/BookStore-Mern.git
 cd BookStore-Mern
 
 
