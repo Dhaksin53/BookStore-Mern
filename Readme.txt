@@ -27,7 +27,7 @@ Version Control: Git & GitHub
 
 
 
-📂 Project Setup
+📂 Project Setup-This is the updated version
 
 
 1️⃣ Clone the Repository
